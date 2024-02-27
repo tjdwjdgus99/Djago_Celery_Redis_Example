@@ -1,7 +1,7 @@
 # Djago_Celery_Redis_Example
 Djago_Celery_Redis 예제 소스코드
 
-## Reference link : https://velog.io/@tjdwjdgus99/Django-Celery-Redis%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%8B%9D-%EC%9E%91%EC%97%85
+#### Reference link : https://velog.io/@tjdwjdgus99/Django-Celery-Redis%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%8B%9D-%EC%9E%91%EC%97%85
 
 ### 실행순서<br>
 1.Redis 실행<br>
